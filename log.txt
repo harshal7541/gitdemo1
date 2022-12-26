@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-  ONLINE VEHICLE SERVICE SYSTEM
-
-                                                                                                     ABSTRACT
-=======
-                                                                                                       ABSTRACT
->>>>>>> branch1
+                                                                                                      ABSTRACT
 Objective :-
         The main objective of this project is to build a website which will help Customer to book the appointment for their vehicle servicing/repairing. 
 Through Webapp or portal Customers can register through Online Vehicle Service System portal and can also select their nearby service station.
@@ -28,17 +22,3 @@ Project Overview :-
 
 •	Online Vehicle service station System provides the functions which connect the customer and the garage owners efficiently.
 •	Online Vehicle service station System could be maintained by Administrator.
-
-
-
-  Functional Requirements Overview:
-
-1.	Admin Module
-2.	Customer Module
-3.	Owner 
-4.	Employee
-<<<<<<< HEAD
-
-
-=======
->>>>>>> branch1
