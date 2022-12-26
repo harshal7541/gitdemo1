@@ -1,1 +1,34 @@
-dscsdvdfbdfbdbgngngfn
+                                                                                                       ABSTRACT
+Objective :-
+        The main objective of this project is to build a website which will help Customer to book the appointment for their vehicle servicing/repairing. 
+Through Webapp or portal Customers can register through Online Vehicle Service System portal and can also select their nearby service station.
+
+
+Purpose :-
+        The purpose of this project is to provide car or any other automobile servicing system more effectively than the existing system. There are some 
+disadvantages of the existing service center management systems. These disadvantages are overcome by the online Vehicle service station. And it can be made
+ handily available to every person. Previously people could not get help or locate the service centers conveniently in case of their car break-down or any 
+other emergencies. Thus, online Vehicle service station is proposed to assist people and fulfill their requirements easily.
+
+
+Project Overview :-
+•	Online Vehicle service station is a web application.
+
+•	There are mainly two types of users. One is the Normal peoples who has vehicle and other is garage owners.
+
+•	Customers can find nearest garage which provide Good service.
+
+•	Using this system, garage owners will be able to maintain customer and services data
+
+•	Online Vehicle service station System provides the functions which connect the customer and the garage owners efficiently.
+•	Online Vehicle service station System could be maintained by Administrator.
+
+
+
+  Functional Requirements Overview:
+
+1.	Admin Module
+2.	Customer Module
+3.	Owner 
+4.	Employee
+
